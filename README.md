@@ -1,6 +1,6 @@
-# Analog App
+# Analog Page Template
 
-This project was generated with [Analog](https://analogjs.org), the fullstack meta-framework for Angular.
+This is a template repo for a common page/blog setup using AnalogJS.
 
 ## Setup
 
